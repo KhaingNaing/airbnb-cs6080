@@ -1,0 +1,18 @@
+{
+  "title": "Oceanside Villa",
+  "address": {
+    "street": "1 Kensington Street",
+    "city": "Kensington",
+    "state": "NSW",
+    "postcode": "2032",
+    "country": "Australia"
+  },
+  "price": 350,
+  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==",
+  "metadata": {
+    "type": "Apartment",
+    "bathNum": 2,
+    "bedNum": 2,
+    "amen": "Lovely two person studio suitable for friends"
+  }
+}

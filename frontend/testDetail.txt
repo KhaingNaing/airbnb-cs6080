@@ -1,0 +1,12 @@
+jest tested: 
+HeaderBar
+
+Cypress tested:
+ViewDetail
+RequestTable
+HostedListing
+PageList
+
+jest can not test some mui file, but Header is the only component can finish the test.
+
+So other parts we use Cypress. Test details please read .cy.jsx files.
